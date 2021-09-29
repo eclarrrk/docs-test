@@ -1,23 +1,39 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
+      - title: "Code Formatting"
+        url: "docs/code-formatting/"
+        children:
+            - title: "VS Code Extensions"
+              url: "docs/code-formatting#vs-code-extensions"
+            - title: "Indents"
+              url: "docs/code-formatting#indents"
+            - title: "Quotes"
+              url: "docs/code-formatting#quotes"
+      - title: "Cavalry Starter Theme"
+        url: "docs/cavalry-starter-theme/"
+        children:
+            - title: "Installation"
+              url: "docs/cavalry-starter-theme#installation"
+            - title: "Configuration"
+              url: "docs/cavalry-starter-theme#configuration"
+            - title: "Starting a new site"
+              url: "docs/cavalry-starter-theme#starting-a-new-site"
+            - title: "Deployment"
+              url: "docs/cavalry-starter-theme#deployment"
+      - title: "Getting Started"
+        url: "docs/getting-started"
+        children:
+            - title: Features
+              url: "docs/getting-started#getting-started"
+            - title: Development
+              url: "docs/getting-started#development"
+            - title: Customization
+              url: "docs/getting-started#customization"
 - title: "Extras"
   url: "docs/extras"
   links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
+      - title: About
+        url: "about"
+      - title: Tags Page
+        url: "tags"
