@@ -554,8 +554,8 @@ h6,
 }
 
 hr {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     border: 0;
     border-top: 1px solid rgba(0, 0, 0, .1)
 }
@@ -3008,7 +3008,7 @@ fieldset:disabled a.btn {
 .btn-primary:disabled {
     color: #fff;
     background-color: {{ site.color }};
-    border-color: {{ site.color }}
+    border-color: {{ site.color }};
 }
 
 .btn-primary:not(:disabled):not(.disabled):active,
