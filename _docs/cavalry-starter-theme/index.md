@@ -26,6 +26,10 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae molestiae 
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae molestiae aliquid quam neque quibusdam eos eveniet laudantium adipisci tenetur expedita!
 
+## Starting a new site
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas ipsa incidunt explicabo maxime quae veniam vel quibusdam sed. Veniam, laboriosam?
+
 ## Deployment
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae molestiae aliquid quam neque quibusdam eos eveniet laudantium adipisci tenetur expedita!
