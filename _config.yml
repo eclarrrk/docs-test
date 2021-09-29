@@ -26,7 +26,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/docs-test" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://vsoch.github.io" # the base hostname & protocol for your site
+url: "https://eclarrrk.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/eclarrrk/docs-test"
@@ -35,9 +35,9 @@ github_repo: "docs-test"
 github_branch: "master"
 
 # Optional
-twitter: eclarrrk
-linkedin: 
-dockerhub: 
+# twitter: eclarrrk
+# linkedin: 
+# dockerhub: 
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true
