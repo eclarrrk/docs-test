@@ -1,15 +1,20 @@
 - title: Documentation
   url: docs
   links:
-      - title: "Code Formatting"
-        url: "docs/code-formatting/"
+      - title: "Editor Setup"
+        url: "docs/editor-setup/"
         children:
-            - title: "VS Code Extensions"
-              url: "docs/code-formatting#vs-code-extensions"
-            - title: "Indents"
-              url: "docs/code-formatting#indents"
-            - title: "Quotes"
-              url: "docs/code-formatting#quotes"
+            - title: "VS Code"
+              url: "docs/editor-setup#visual-studio-code"
+            - title: "Code Formatting"
+              url: "docs/editor-setup#code-formatting"
+            - title: "VS Code Settings"
+              url: "docs/editor-setup#vs-code-settings-file"
+      - title: "Best Practices"
+        url: "docs/best-practices/"
+        children:
+            - title: "Naming Conventions"
+              url: "docs/best-practices/naming-conventions"
       - title: "Cavalry Starter Theme"
         url: "docs/cavalry-starter-theme/"
         children:
@@ -21,19 +26,19 @@
               url: "docs/cavalry-starter-theme#starting-a-new-site"
             - title: "Deployment"
               url: "docs/cavalry-starter-theme#deployment"
-      - title: "Getting Started"
-        url: "docs/getting-started"
-        children:
-            - title: Features
-              url: "docs/getting-started#getting-started"
-            - title: Development
-              url: "docs/getting-started#development"
-            - title: Customization
-              url: "docs/getting-started#customization"
-- title: "Extras"
-  url: "docs/extras"
+
+- title: "Using the docs"
+  url: "getting-started"
   links:
-      - title: About
-        url: "about"
-      - title: Tags Page
-        url: "tags"
+      - title: Features
+        url: "getting-started#getting-started"
+      - title: Development
+        url: "getting-started#development"
+      - title: Customization
+        url: "getting-started#customization"
+
+- title: Tags Page
+  url: "tags"
+
+- title: "About"
+  url: "about"

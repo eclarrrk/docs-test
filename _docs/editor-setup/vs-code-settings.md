@@ -5,6 +5,10 @@ description: A starter settings file
 
 # {{ page.title }}
 
+Paste these into your VS Code Settings JSON file.
+
+<kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to enter the Command Palette. Then search for "Preferences: Open Settings (JSON)"
+
 ```json
 {
     "beautify.config": {
@@ -30,15 +34,18 @@ description: A starter settings file
         "css": [],
         "js": []
     },
+
     "prettier.trailingComma": "es5",
     "prettier.tabWidth": 4,
     "prettier.useTabs": false,
     "prettier.semi": true,
     "prettier.singleQuote": false,
     "prettier.printWidth": 1000,
+
     "html.format.indentHandlebars": true,
     "html.format.indentInnerHtml": true,
     "html.format.wrapAttributes": "preserve",
+
     "files.insertFinalNewline": true
 }
 ```
