@@ -12,11 +12,16 @@ tags:
 -   Prefer descriptive names over of short names
 -   Use abstract, reusable names instead of specific, single-use names
 
-### Naming IDs
+### Selectors
+
+-   Avoid using IDs as Selectors
+-   Avoid using data attributes as selectors
+
+## Naming IDs
 
 Use CamelCase for IDs. e.g. `#menuToggle`
 
-### Naming CSS Classes
+## Naming CSS Classes
 
 Use hyphen-delimited class names. e.g. `.page-header`
 
